@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a job
-- 📫 How to reach me here
+- 📫 How to reach me here as Hanif
 
 <!---
 taigasign/taigasign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
